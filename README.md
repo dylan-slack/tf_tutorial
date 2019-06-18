@@ -10,5 +10,5 @@ To use this tutorial:
 
 ``` git clone https://github.com/dylan-slack/tf_tutorial.git ``` 
 
-- Follow the tutorial through the notebook
+- Open the notebook and jupyter and follow the tutorial
 
