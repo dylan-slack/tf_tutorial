@@ -4,11 +4,11 @@ This is an interactive tutorial for TF.  Slides can be found [here](https://docs
 
 To use this tutorial:
 
-	- Open the TensorFlow Tutorial.ipynb in github
-	- Follow the installation instructions at the top of the notebook
-	- Clone the repo:
+- Open the TensorFlow Tutorial.ipynb in github
+- Follow the installation instructions at the top of the notebook
+- Clone the repo:
 
 ``` git clone https://github.com/dylan-slack/tf_tutorial.git ``` 
 
-	- Follow the tutorial through the notebook
+- Follow the tutorial through the notebook
 
